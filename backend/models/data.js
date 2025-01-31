@@ -4,7 +4,7 @@ const dataSchema = new mongoose.Schema({
   name: String,
   amount: Number,
   date: Date,
-  verified: Boolean,
+  verified: String,
   //add other fields here
 });
 

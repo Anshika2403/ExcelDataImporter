@@ -1,4 +1,4 @@
-const { isCurrentMonth, isPreviousMonth } = require("../utils/dateUtils");
+const { isCurrentMonth, isPreviousMonth } = require("../utils/date");
 
 const defaultSheet = {
   name: "Default",
